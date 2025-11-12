@@ -1,0 +1,14 @@
+{
+  "name": "navball-server",
+  "version": "1.0.0",
+  "description": "Servidor WebSocket para NavBall multiplayer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "SeuNome",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.13.0"
+  }
+}
